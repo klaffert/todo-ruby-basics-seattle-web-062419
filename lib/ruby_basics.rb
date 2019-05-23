@@ -22,6 +22,6 @@ return "expert"
 end
 
 def pizza_party(pizza = "cheese")
-  print "cheese"
+  pizza
   return "pepperoni"
 end

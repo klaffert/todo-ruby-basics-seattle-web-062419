@@ -22,5 +22,4 @@ return "expert"
 end
 
 def pizza_party(pizza = "cheese")
-return "pepperoni"
 end

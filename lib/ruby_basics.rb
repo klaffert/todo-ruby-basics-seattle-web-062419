@@ -23,5 +23,4 @@ end
 
 def pizza_party(pizza = "cheese")
   pizza
-  return "pepperoni"
 end
